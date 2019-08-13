@@ -1,0 +1,14 @@
+/home/alunos/SGCFT/bin/Debug/netcoreapp2.2/SGCFT.deps.json
+/home/alunos/SGCFT/bin/Debug/netcoreapp2.2/SGCFT.runtimeconfig.json
+/home/alunos/SGCFT/bin/Debug/netcoreapp2.2/SGCFT.runtimeconfig.dev.json
+/home/alunos/SGCFT/bin/Debug/netcoreapp2.2/SGCFT.dll
+/home/alunos/SGCFT/bin/Debug/netcoreapp2.2/SGCFT.pdb
+/home/alunos/SGCFT/obj/Debug/netcoreapp2.2/SGCFT.csprojAssemblyReference.cache
+/home/alunos/SGCFT/obj/Debug/netcoreapp2.2/SGCFT.csproj.CoreCompileInputs.cache
+/home/alunos/SGCFT/obj/Debug/netcoreapp2.2/SGCFT.RazorAssemblyInfo.cache
+/home/alunos/SGCFT/obj/Debug/netcoreapp2.2/SGCFT.RazorAssemblyInfo.cs
+/home/alunos/SGCFT/obj/Debug/netcoreapp2.2/SGCFT.AssemblyInfoInputs.cache
+/home/alunos/SGCFT/obj/Debug/netcoreapp2.2/SGCFT.AssemblyInfo.cs
+/home/alunos/SGCFT/obj/Debug/netcoreapp2.2/SGCFT.RazorTargetAssemblyInfo.cache
+/home/alunos/SGCFT/obj/Debug/netcoreapp2.2/SGCFT.dll
+/home/alunos/SGCFT/obj/Debug/netcoreapp2.2/SGCFT.pdb
